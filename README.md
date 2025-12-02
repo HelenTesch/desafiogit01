@@ -1,4 +1,4 @@
-|[Trilha: Introdução às Redes e à Internet] (./trilha1.md)|
+|[Trilha: Introdução às Redes e à Internet](./trilha1.md)|
 
 # 🌐Trilha: Introdução às Redes e à Internet
 👨‍🏫 **Professor:** Kenji Taniguchi
