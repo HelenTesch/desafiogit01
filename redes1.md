@@ -59,7 +59,7 @@ Redes pequenas **estrela** (simples e eficaz) **X** Grandes organizações  **ma
 - **Emissor e Receptor:** O emissor envia dados; o receptor os recebe. Esses papéis podem alternar.
 - **Dados:** A informação transmitida (texto, imagem, vídeo, arquivos, páginas web etc.).
 - **Meio de Comunicação:** Caminho físico ou lógico percorrido pelos dados, ex: <font color="red">cabos, conexões sem fio, infraestrutura em nuvem.</font>
-- **Protocolos:** Conjuntos de regras que padronizam a comunicação. Exemplo: <font color="red">**TCP/IP**</font>.  
+- **Protocolos:** Conjuntos de regras que padronizam a comunicação. Exemplo: <font color="red"> **TCP/IP** </font>.  
 >Os protocolos são como uma **linguagem comum**, garantindo interoperabilidade entre dispositivos de diferentes fabricantes.
 
 ----------
