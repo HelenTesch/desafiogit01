@@ -5,7 +5,9 @@
 ### 1. Introdução ao DNS
 
 O **DNS (Domain Name System)** é um sistema que funciona como um **diretório de nomes da internet**, associa **nomes de domínio** a **endereços IP** numéricos, permitindo localizar sites, serviços e servidores de e-mail.  
+
 >Traduz nomes como `www.exemplo.com` em endereços como `192.168.1.1`.
+
 ----------
 
 ### 2. Hierarquia de Domínios e Subdomínios
