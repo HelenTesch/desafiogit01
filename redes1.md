@@ -1,5 +1,5 @@
 
-|[Início](./README.md)| - |[Trilha: Introdução às Redes e à Internet](./trilha1.md)|
+|[Início](./README.md)| - |[Trilha: Introdução às Redes e à Internet](./trilha1.md)| - |[Trilha: Controle de Versão](./trilha1.md)|
 
 ## 👩‍💻Aula 01 - Conceitos fundamentais de redes de computadores
 
@@ -99,5 +99,3 @@ Redes pequenas **estrela** (simples e eficaz) **X** Grandes organizações  **ma
 ### Web 3.0 – A Internet Semântica
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  A Web 3.0 propõe uma Internet mais inteligente, baseada em **Compreensão de significado (Web Semântica)**, **Inteligência Artificial**, **Interconexão Avançada**
-
-----------
