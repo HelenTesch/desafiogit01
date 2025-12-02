@@ -1,11 +1,9 @@
-|[Trilha: Introdução às Redes e à Internet](./trilha1.md)|
+#Apresento a vossas senhorias o resumão dos conteúdos
+TEXTINHO
+FOTINHA
 
-# 🌐Trilha: Introdução às Redes e à Internet
-👨‍🏫 **Professor:** Kenji Taniguchi
+|[Trilha: Introdução às Redes e à Internet](./trilha1.md)| |[Trilha: Controle de Versão](./trilha1.md)|
 
-<img src="profKenji.png" alt="prof Kenji" widght= "200" height= "300">
-
-----------
 
 ## 👩‍💻Aula 01 - Conceitos fundamentais de redes de computadores
 
