@@ -1,9 +1,9 @@
-# Trilha: Introdução às Redes e à Internet
-**Professor:** Kenji Taniguchi
+🌐# Trilha: Introdução às Redes e à Internet
+👨‍🏫 **Professor:** Kenji Taniguchi
 
 <img src="profKenji.png" alt="prof Kenji" widght= "200" height= "300">
 
-## Aula 01 - Conceitos fundamentais de redes de computadores
+👩‍💻## Aula 01 - Conceitos fundamentais de redes de computadores
 
 
 ### 1. Introdução às Redes de Computadores
@@ -102,7 +102,7 @@ Redes pequenas **estrela** (simples e eficaz) **X** Grandes organizações  **ma
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  A Web 3.0 propõe uma Internet mais inteligente, baseada em **Compreensão de significado (Web Semântica)**, **Inteligência Artificial**, **Interconexão Avançada**
 
-## Aula 02 - Protocolos de comunicação em Redes
+👩‍💻## Aula 02 - Protocolos de comunicação em Redes
 
 ### 1. Introdução aos Protocolos de Comunicação
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Os **protocolos de comunicação**  definem regras, formatos e procedimentos que permitem que dispositivos troquem dados de forma **organizada, eficiente e segura**.
