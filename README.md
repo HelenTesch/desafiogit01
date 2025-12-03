@@ -7,9 +7,6 @@
 <font color="purple">Desculpa descepicionar vocês, mas não teve figurinhas hoje</font> 🥲 
 
 
-Sera?
-
-
 .
 
 
@@ -19,7 +16,7 @@ Sera?
 .
 
 
-Talvez eu coloque algumas. 
+*Talvez eu coloque algumas.* 
 
 
 .
@@ -28,7 +25,8 @@ Talvez eu coloque algumas.
 
 .
 
+**Será?**
+...
 
-Brincadeirinha 🤪​
-
-fotinhas dos coleguinhas
+≽^-˕-^≼
+~~Fotinhas dos coleguinhas estão escondidas em outra branch~~ 😌 
