@@ -3,7 +3,7 @@
 TEXTINHO
 FOTINHA
 
-|[Trilha: Introdução às Redes e à Internet](./trilha1.md)| |[Trilha: Controle de Versão](./trilha1.md)|
+|[Trilha: Introdução às Redes e à Internet](./trilha1.md)| |[Trilha: Controle de Versão](./trilha2.md)|
 
 Desculpa descepicionar vocês, mas não teve figurinhas hoje 🥲 
 
